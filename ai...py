@@ -1,3 +1,5 @@
+import os
+import zipfile
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import tensorflow as tf
